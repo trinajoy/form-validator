@@ -1,6 +1,8 @@
 ## Form Validator (Intro Project)
 
-Simple client side form validation. Check requird, length, email and password match
+Vanilla JS Project - HTML5, CSS & JavaScript (No frameworks or libraries).
+
+Simple client side form validation. Check required, length, email and password match.
 
 ## Project Specifications
 
